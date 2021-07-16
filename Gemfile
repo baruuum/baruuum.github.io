@@ -8,5 +8,7 @@ group :jekyll_plugins do
     gem 'jekyll-email-protect'
     gem 'jekyll-paginate'
     gem 'unicode_utils'
-    #gem 'jekyll-katex'
+    gem 'jekyll-katex'
 end
+
+gem "webrick", "~> 1.7"
