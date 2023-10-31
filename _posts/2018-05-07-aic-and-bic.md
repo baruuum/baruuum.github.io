@@ -56,7 +56,7 @@ Still, we need to know $ p  $ in order to calculate $ E_p[\log q(\cdot\vert\thet
 
 $$  \min_{\theta\in \Theta}D_{KL}(p\|q_{\theta})=\min_{\theta\in \Theta}\int p(y) \log\left(\frac{p(y)}{q(y\vert\theta)}\right) dy.  $$
 
-If there exists such a $ \theta_0  $, it has to satisfy the first-order condition
+If there exists such a $ \theta_0$, it has to satisfy the first-order condition
 
 $$  \frac{\partial}{\partial \theta} \int p(y)\log q(y\vert\theta)dy = E_p\left[\frac{\partial}{\partial \theta}\log q(y\vert\theta_0)\right]=0.  $$
 
