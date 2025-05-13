@@ -7,14 +7,17 @@ description: Publications and Working Papers. * Indicates equal authorship.
 
 
 <h4> <strong>Working Papers</strong> </h4>
-<h5 class="note">(Full draft available upon request)</h5>
+<!-- <h5 class="note">(Full draft available upon request)</h5> -->
 
 <h3 class="year"> &nbsp; </h3>
 
-- Barum Park and Delia Baldassarri. "Social Bases of Partisanship: Cleavage Structures and Intersectional Bases""
-- Barum Park. "Network Approaches to the Analysis of Worker Flows"
-- Byungkyu Lee and Barum Park "The Contextual Activation of Belief Networks"
+Barum Park and Delia Baldassarri "Social Bases of Partisanship: Cleavage Structures and Intersectional Bases"
+    
+Barum Park "Network Approaches to the Analysis of Worker Flows"
 
+Byungkyu Lee and Barum Park "The Contextual Activation of Belief Networks"
+    
+&nbsp;
 
 <h4> <strong>Publications</strong> </h4>
 
