@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<h3 align="center"> <strong>Introductory physics students’ recognition of strong peers: Gender and racial or ethnic bias differ by course level and context</h3>
+
+&nbsp;
+&nbsp;
+
+Researchers have pinpointed recognition from others as one of the most important dimensions of students’ science and engineering identity. Studies, however, have found gender biases in students’ recognition of their peers, with inconsistent patterns across introductory science and engineering courses. Toward finding the source of this variation, we examine whether a gender bias exists in students’ nominations of strong peers across three different remote, introductory physics courses with varying student populations (varying demographics, majors, and course levels). We also uniquely evaluate possible racial or ethnic biases and probe the relationship between instructional context (whether lecture or laboratory) and recognition. Some of our results replicate previous findings (such as the association of course grade and small class section enrollment with nominations), while others offer contradictions. Comparing across our three courses and the prior work, results suggest that course level (whether first-year students or beyond-first-year students) might be more associated with a gender bias in peer recognition than other variables. Surprisingly, we also find instances of racial or ethnic biases in favor of students from backgrounds historically underrepresented in science. Finally, we find that the nomination patterns differ when students nominate individuals strong in the lecture material versus the laboratory material. This work serves as an important step in determining which courses and contexts exhibit biases in peer recognition, as well as how students’ perceptions of one another form in remote teaching environments.
