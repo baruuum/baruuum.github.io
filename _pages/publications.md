@@ -32,7 +32,7 @@ description: Publications and Working Papers. * Indicates equal authorship.
 - Cristobal Young, Benjamin Cornwell, Barum Park, Nan Feng. 2025. "Inequality and Social Ties: Evidence from 15 U.S. Data Sets” *Sociological Science* 12: 294-321
 
     1. [Abstract]({% link misc_pages/abstracts/2025_abstract_ist.md %})
-    2. <a href="https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.020148"> Article </a>
+    2. <a href="https://sociologicalscience.com/articles-v12-14-294/"> Article </a>
     3. <a href="https://osf.io/ky4ws/">Replication Materials</a>
 
 <h3 class="year">{{2022}}</h3>
