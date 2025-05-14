@@ -19,10 +19,12 @@ a {
 }
 
 article a, .news a {
-    color: $theme-color;
+    color: $text-color;
+    text-decoration: underline;
     font-weight: 100;
 
     &:hover {
+        color: $theme-color;
         text-decoration: underline;
     }
 }

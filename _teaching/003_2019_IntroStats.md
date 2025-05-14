@@ -5,7 +5,7 @@ description: Introduction to Statistics and R
 year: 2019
 ---
 
-All Rmarkdown codes for the lab instructions are freely available [here](https://github.com/baruuum/intro_to_stats_2019). 
+Lab Materials for Introduction to Statistics (Instructor: Siwei Cheng) taught in 2019 at NYU. All Rmarkdown codes for the lab instructions are freely available [here](https://github.com/baruuum/intro_to_stats_2019). 
 
 <hr>
 

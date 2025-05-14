@@ -5,7 +5,7 @@ description: Introductions to LaTex, R, and Rmarkdown; Some Combinatorics; Rando
 year: 2019 
 ---
 
-Lecture notes introducing LaTeX, R, and Rmarkdown. 
+Lab Material for the Math Refresher (Instructor: Siwei Cheng) course taught in 2019 at NYU. Lecture notes introducing LaTeX, R, and Rmarkdown. 
 
 <hr>
 

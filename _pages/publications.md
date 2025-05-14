@@ -11,11 +11,11 @@ description: Publications and Working Papers. * Indicates equal authorship.
 
 <h3 class="year"> &nbsp; </h3>
 
-Barum Park and Delia Baldassarri "Social Bases of Partisanship: Cleavage Structures and Intersectional Bases"
+- Barum Park and Delia Baldassarri "Social Bases of Partisanship: Cleavage Structures and Intersectional Bases"
     
-Barum Park "Network Approaches to the Analysis of Worker Flows"
+- Barum Park "Network Approaches to the Analysis of Worker Flows"
 
-Byungkyu Lee and Barum Park "The Contextual Activation of Belief Networks"
+- Byungkyu Lee and Barum Park "The Contextual Activation of Belief Networks"
     
 &nbsp;
 
@@ -24,27 +24,29 @@ Byungkyu Lee and Barum Park "The Contextual Activation of Belief Networks"
 <h3 class="year">{{2025}}</h3>
 
 - Barum Park. forthcoming. "Equivalence and Clustering in Worker Flows: Stochastic Blockmodels for the Analysis of Mobility Tables" *Sociological Methodology*
+
     1. [Abstract]({% link misc_pages/abstracts/2025_abstract_equivalence.md %})
     2. [Accepted Manuscript]({% link assets/pdf/SM_Manuscript.pdf %})
     3. <a href="https://osf.io/enhdw/">Replication Materials</a>
 
+- Cristobal Young, Benjamin Cornwell, Barum Park, Nan Feng. 2025. "Inequality and Social Ties: Evidence from 15 U.S. Data Sets” *Sociological Science* 12: 294-321
 
-- Cristobal Young, Benjamin Cornwell, Barum Park, Nan Feng. 2025. "Inequality and Social Ties: Evidence from 15 U.S. Data Sets” *Sociological Science* 12: 294-321.
     1. [Abstract]({% link misc_pages/abstracts/2025_abstract_ist.md %})
     2. <a href="https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.020148"> Article </a>
     3. <a href="https://osf.io/ky4ws/">Replication Materials</a>
-
 
 <h3 class="year">{{2022}}</h3>
 
 - Meagan Sundstrom, Ashley B. Heim, Barum Park, and N. G. Holmes, "Introductory physics students’ recognition of strong peers: Gender and racial/ethnic bias differ by
 course level and context"  *Physical Review Physics Education Research* 18: 020148
+
     1. [Abstract]({% link misc_pages/abstracts/2022_abstract_ps.md %})
     2. <a href="https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.020148"> Article </a>
 
 <h3 class="year">{{2021}}</h3>
 
 - Barum Park "Segregated in Social Space: The Spatial Structure of Acquaintanceship Networks" *Sociological Science* 8: 397-428.
+
     1. [Abstract]({% link misc_pages/abstracts/2019_abstract_socspace.md %})
     2. <a href="https://sociologicalscience.com/download/vol-8/november/SocSci_v8_397to428.pdf"> Article </a>
     3. <a href="https://github.com/baruuum/Replication_Code/tree/master/2021_SSS">Replication Materials</a>
@@ -54,7 +56,6 @@ course level and context"  *Physical Review Physics Education Research* 18: 0201
     1. [Abstract]({% link misc_pages/abstracts/2021_abstract_stillasmallworld.md %})
     1. <a href="https://sociologicalscience.com/download/vol-8/january/SocSci_v8_73to82.pdf"> Article </a>
     2. <a href="https://github.com/baruuum/Replication_Code/tree/master/2021_SSW">Replication Materials</a>
-
 
 <h3 class="year">{{2020}}</h3>
 
@@ -72,7 +73,8 @@ course level and context"  *Physical Review Physics Education Research* 18: 0201
     2. <a href="https://doi.org/10.7910/DVN/UFZTYU"> Data </a>
 
 <h3 class="year">{{2018}}</h3>
-- "How Are We Apart? Continuity and Change in the Structure of Ideological Disagreement in the American Public, 1980-2012," <em>Social Forces</em> 96(4): 1757-1784.
+
+- Barum Park. "How Are We Apart? Continuity and Change in the Structure of Ideological Disagreement in the American Public, 1980-2012," <em>Social Forces</em> 96(4): 1757-1784.
 
     - Winner of the _Dennis Wrong Graduate Student Prize_ for the best graduate student paper written or published in 2018, Department of Sociology, NYU
 
