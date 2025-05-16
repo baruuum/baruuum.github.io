@@ -55,6 +55,7 @@ $pink:              #f92080 !default;
 $light-pink:        #ffdddd !default;
 $yellow:            #efcc00 !default;
 $dark-purple:       #B81EC9 !default;
+$darker-purple:     #9821a5 !default;
 
 $white:             #fff !default;
 $dark-gray:         #333 !default;
@@ -71,7 +72,7 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $dark-purple;
+$theme-color:       $darker-purple;
 $code-color:        $dark-gray;
 $text-color:        $mid-gray;
 $background-color:  white;

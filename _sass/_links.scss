@@ -8,9 +8,19 @@ a {
     }
 }
 
+.about a {
+    color: $theme-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $theme-color;
+        text-decoration: underline;
+    }
+}
+
 .teaching-posts a {
     color: $text-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
         color: $theme-color;
