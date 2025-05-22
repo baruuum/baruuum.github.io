@@ -34,9 +34,9 @@ Introduction to Statistics, Graduate and Undergraduate level (SOC3010/6010)
 
 <br> 
 
-- <a href="{% link assets/teaching/CPP_coding.pdf %}" class="article"> How to Write Good Code?</a>
 - <a href="{% link assets/teaching/BayesianStats.pdf %}" class="article"> Very Short Introduction to Bayesian Statstics</a>
 - <a href="{% link assets/teaching/GitTutorial.pdf %}" class="article"> Very Short Introduction to Git and Github</a>
+- <a href="{% link assets/teaching/CPP_coding.pdf %}" class="article"> How to Write Good Code?</a>
 - <a href="{% link _teaching/000_0000_Misc.md %}"  class="article"> Miscellaneous Code</a>
 
 <br>
