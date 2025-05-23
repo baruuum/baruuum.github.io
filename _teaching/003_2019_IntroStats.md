@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagesub
 title: Introduction to Statistics
 description: Introduction to Statistics and R
 year: 2019

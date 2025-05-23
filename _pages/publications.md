@@ -18,7 +18,7 @@ description: Academic Publications and Working Papers. * Indicates student autho
 - Byungkyu Lee and **Barum Park** "The Contextual Activation of Belief Networks"
     - [Abstract]({% link misc_pages/abstracts/abstract_bn.md %})
 
-- Shiyu Ji, **Barum Park**, Lilian Lee, Byungkyu Lee "When, Where, and With Whom We Polarize: Contextual Drivers of Ideological Signaling on Social Media"
+- \*Shiyu Ji, **Barum Park**, Lilian Lee, Byungkyu Lee "When, Where, and With Whom We Polarize: Contextual Drivers of Ideological Signaling on Social Media"
     - [Abstract]({% link misc_pages/abstracts/abstract_is.md %})
 
 - **Barum Park** "Network Approaches to the Analysis of Worker Flows"

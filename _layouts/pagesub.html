@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="pagesub">
+
+  <header class="post-header">
+    <h2 class="post-title"><strong>{{ page.title }}</strong><br><span style="font-size:18px;font-weight:300">{{ page.subtitle }}</span></h2>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
+
+  <article class="post-content {{page.title}} clearfix">
+    {{ content }}
+  </article>
+
+  {% if page.news %}
+    {% include news.html %}
+  {% endif %}
+
+  {% if page.recent_posts %}
+    {% include recentposts.html %}
+  {% endif %}
+
+  {% if page.social %}
+    {% include social.html %}
+  {% endif %}
+
+</div>

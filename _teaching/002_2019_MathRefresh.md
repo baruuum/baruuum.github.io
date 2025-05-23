@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagesub
 title: Math Refresher
 description: Introductions to LaTex, R, and Rmarkdown; Some Combinatorics; Random Variables
 year: 2019 
