@@ -18,7 +18,7 @@ description: Academic Publications and Working Papers. * Indicates student autho
 - Byungkyu Lee and **Barum Park** "The Contextual Activation of Belief Networks"
     - [Abstract]({% link misc_pages/abstracts/abstract_bn.md %})
 
-- \*Shiyu Ji, **Barum Park**, Lilian Lee, Byungkyu Lee "When, Where, and With Whom We Polarize: Contextual Drivers of Ideological Signaling on Social Media"
+- \*Shiyu Ji, **Barum Park**, Lillian Lee, Byungkyu Lee "When, Where, and With Whom We Polarize: Contextual Drivers of Ideological Signaling on Social Media"
     - [Abstract]({% link misc_pages/abstracts/abstract_is.md %})
 
 - **Barum Park** "Network Approaches to the Analysis of Worker Flows"
@@ -36,6 +36,11 @@ description: Academic Publications and Working Papers. * Indicates student autho
     - [Abstract]({% link misc_pages/abstracts/2025_abstract_equivalence.md %})
     - [Accepted Manuscript]({% link assets/pdf/SM_Manuscript.pdf %})
     - <a href="https://osf.io/enhdw/">Replication Materials</a>
+
+<div style="margin-top: 30px;"></div>
+
+- Benjamin Cornwell, Cristobal Young, **Barum Park**, \*Nan Feng. forthcoming. *Friends and Fortunes:
+Social Capital Inequality in America*, Cambridge University Press
 
 <div style="margin-top: 30px;"></div>
 
