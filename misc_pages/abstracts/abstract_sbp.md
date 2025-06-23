@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h3 align="center"> <strong>The Contextual Activation of Belief Networks</strong> <br> Cleavage Structures and Intersectional Bases </h3>
+<h3 align="center"> <strong>Social Bases of Partisanship</strong> <br> Cleavage Structures and Intersectional Bases </h3>
 
 &nbsp;
 &nbsp;
