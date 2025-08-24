@@ -22,7 +22,7 @@ Introduction to the Micro-Macro Problem in Sociology, Undergraduate Level (SOC34
 </h5>
 
 <h4> 
-<a href="{% link 004_2020_IntroStats_3010_6010.md %}"  class="article"> <strong>Statistics for Sociological Research</strong> </a>
+<a href="{% link _teaching/004_2020_IntroStats_3010_6010.md %}"  class="article"> <strong>Statistics for Sociological Research</strong> </a>
 </h4>
 <h5 style="margin-top: -5px;">
 Introduction to Statistics, Graduate and Undergraduate level (SOC3010/6010)
