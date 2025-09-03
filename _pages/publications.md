@@ -32,9 +32,9 @@ description: Academic Publications and Working Papers. * Indicates student autho
 
 <div style="margin-top: 15px;"></div>
 
-- **Barum Park**. forthcoming. "Equivalence and Clustering in Worker Flows: Stochastic Blockmodels for the Analysis of Mobility Tables" *Sociological Methodology*
+- **Barum Park**. 2025. "Equivalence and Clustering in Worker Flows: Stochastic Blockmodels for the Analysis of Mobility Tables" *Sociological Methodology*
     - [Abstract]({% link misc_pages/abstracts/2025_abstract_equivalence.md %})
-    - [Accepted Manuscript]({% link assets/pdf/SM_Manuscript.pdf %})
+    - <a href="https://doi.org/10.1177/00811750251357950"> Article </a>
     - <a href="https://osf.io/enhdw/">Replication Materials</a>
 
 <div style="margin-top: 30px;"></div>
